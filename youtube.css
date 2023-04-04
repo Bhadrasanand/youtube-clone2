@@ -72,10 +72,16 @@ p
 }
 @media (max-width:600px)
  {
-  body
+  .video-grid
   {
-   width: 60%
+   grid-template-columns:1fr;
   }
+  .header
+  {
+   width:80%;
+  }
+  
+  
 }
 .video-time
 {
