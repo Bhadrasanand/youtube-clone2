@@ -78,17 +78,6 @@ p
   }
   
 }
-@media screen and (max-width:600px and min-width:300px)
-{
- .header
- {
-  width: 75%;
- }
- .search-bar
- {
-  width: 75%;
- }
-}
 .video-time
 {
     background-color: black;
